@@ -54,7 +54,7 @@ Please review our [Code of Conduct](#) and [Contributing Guidelines](#) before y
 
 ## 💬 Community & Support
 
-- **Slack/Discord**: [Invite Link](#) – Chat with core contributors and other community members.  
+- **Slack/Discord**: [Invite Link](#) – Chat with core contributors and other community members.  Coming soon! 
 - **Email**: contact@nativespirittech.org – For general inquiries or partnership discussions.  
 - **Website**: [nativespirittech.org](#) – Coming soon!
 
@@ -87,9 +87,6 @@ Check each repository’s `README` for more specifics.
 
 ## 📈 Organization Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Native-Spirit-Technologies&show_icons=true&count_private=true&theme=radical" alt="Organization GitHub Stats" />
-</p>
 
 > *Check each repository’s “Insights” tab for a deeper dive into commits, contributors, and community activity.*
 
