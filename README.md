@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your logo if available -->
-  <img src="https://user-images.githubusercontent.com/placeholder-org-logo.png" alt="Native Spirit Technologies" width="120" />
+  <img src="https://avatars.githubusercontent.com/u/153699922?s=200&v=4" alt="Native Spirit Technologies" width="120" />
 </p>
 
 ## Empowering Communities Through Technology and Innovation
